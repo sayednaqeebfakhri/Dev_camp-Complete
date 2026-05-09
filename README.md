@@ -45,4 +45,4 @@ and build responsive webpages during the learning journey on Alison.
 
 👨‍💻 Author
 
-Sayed Naqeeb Fakhri
+Sayed Naqeeb Ul Hassan
